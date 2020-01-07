@@ -43,3 +43,32 @@ Lastly, the dataframe for the median reported household income for each state wa
 
 ## 3. EDA
 [EDA of cleaned South and Midwest data](https://github.com/R-Yamin/US_Regional_Identity_Predictions/blob/master/2.%20EDA%20of%20Region%20Data.ipynb)
+
+### 3a. Written Responses
+
+Looking at the data and breaking down the responses of how people identified with being either a southerner or midwesterner, there was an interesting spread of results. Below is the comparison of the responses of those that identified with being either southern or midwestern and the written responses:
+![](https://github.com/R-Yamin/US_Regional_Identity_Predictions/blob/master/Saved%20Images/written%20responses%20and%20self%20identity.png)
+
+Already it can be seen that many of the responses to the 4 categories for the labeled responses fall into the "Not all all" category, yet use similar word choices of those respondents from other categories.
+
+### 3b. Voted States
+Below are graphs of US states measured against the number of votes they recieved if they were thought to be part of the South or the Midwest. 
+
+![](https://github.com/R-Yamin/US_Regional_Identity_Predictions/blob/master/Saved%20Images/States%20Votes%20by%20region.png)
+
+The voting is also broken down by the 4 categories the respondents self-identified with. Though distinctions between the 4 categories within states might be difficult to determine due to the number of respondents, between states the distinction becomes clearer. Looking at the southern data, Georgia to Virginia clearly had the most votes, with a drop-off at West Virginia. A similiar pattern showed up for the midwestern data from Iowa to Michigan. This came to show that this category of voting would be important later to determine how to predict others' regions.
+
+### 3c. Census Region
+Looking at the Census region responses, there is an interesting breakdown based on their actual locations:
+
+![](https://github.com/R-Yamin/US_Regional_Identity_Predictions/blob/master/Saved%20Images/South%20census%20region.png)
+
+Just from the southern data, we can see that almost all of the "A lot" responses for come from three regions in particular. The Midwestern data is even clearer:
+
+![](https://github.com/R-Yamin/US_Regional_Identity_Predictions/blob/master/Saved%20Images/Midwest%20census%20region.png)
+
+### 3d. EDA Summary
+>* There are clear results for particular states that are believed to be southern or midwestern, though how those breakdowns happen are shown to be distinct between those that identify strongly with those regions than those who do not.
+>* The census region data showed a clear breakdown of the 4 categories of regional identity, with those identifying a lot with south or midwest regions of the US falling into distinct regions.
+
+Judging from the results above, the prediction models for these datasetss would likely heavily rely on the states respondents voted for and their census region to determine how likely they are to be southern or midwestern.
