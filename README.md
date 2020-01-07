@@ -1,1 +1,8 @@
-# US_Regional_Identity_Predictions
+# Predicting Regional Identity in the USA
+*A large part of a person’s identity derives from how they view their environment. Where they are located and how closely they identify with that area can help when trying to better understand them. This type of information is crucial in marketing. One of the key factors for selling any product, be it a physical item or a political person or body is to know the market in which you are selling, thus knowing the consumer’s identity.
+ However, within the United States, outside of the state in which they live, citizens have a another category by which they self-identify: region. Yet, defining where the borders to a particular region are located can be difficult, particularly for the regions "South" and "Midwest". Within this project, we acquire data taken from an online survey and look into what patterns and trends are shared in respondents who closely identify with being from a particular region.*
+
+## 1. Data
+The dataset was acquired from the FiveThirtyEight github, from surveys that were created with similar questions regarding two regions of the US: the South and the Midwest. Survey takers could select how much they identify with being a southerner or midwesterner with the same categorical choices ranging from “A lot”, “Some”, “Not much”,  and “Not at all”. They could also write their own answers for how they would self-identify. General information was also collected such as zip code, income, education, and which region according to the census bureau each respondent was located. Additionally, each survey had a place where respondents could vote for which states they believed were midwestern or southern, with a different list of states for each of the two surveys. You can access the infomation in the link below:
+
+>* [FiveThirtyEight Region Survey](https://github.com/fivethirtyeight/data/tree/master/region-survey)
