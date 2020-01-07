@@ -40,3 +40,6 @@ Though many survey takers had filled in most of the reponses, some left areas bl
 
 Lastly, the dataframe for the median reported household income for each state was acquired by downloading the excel file locally from the Census Bureau website, then isolating the columns related to the year 2014. It can be found in the link below:
 >* [Median Reported Household Income](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html)
+
+## 3. EDA
+[EDA of cleaned South and Midwest data](https://github.com/R-Yamin/US_Regional_Identity_Predictions/blob/master/2.%20EDA%20of%20Region%20Data.ipynb)
