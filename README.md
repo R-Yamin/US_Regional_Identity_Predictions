@@ -59,11 +59,12 @@ Below are graphs of US states measured against the number of votes they recieved
 The voting is also broken down by the 4 categories the respondents self-identified with. Though distinctions between the 4 categories within states might be difficult to determine due to the number of respondents, between states the distinction becomes clearer. Looking at the southern data, Georgia to Virginia clearly had the most votes, with a drop-off at West Virginia. A similiar pattern showed up for the midwestern data from Iowa to Michigan. This came to show that this category of voting would be important later to determine how to predict others' regions.
 
 ### 3c. Census Region
-Looking at the Census region responses, there is an interesting breakdown based on their actual locations:
+Looking at the Census region responses, the breakdown of self-identity to their actual locations showed particular patterns.
+For the southern data below:
 
 ![](https://github.com/R-Yamin/US_Regional_Identity_Predictions/blob/master/Saved%20Images/South%20census%20region.png)
 
-Just from the southern data, we can see that almost all of the "A lot" responses for come from three regions in particular. The Midwestern data is even clearer:
+We can see that almost all of the "A lot" responses come from three regions in particular. The Midwestern data is even clearer:
 
 ![](https://github.com/R-Yamin/US_Regional_Identity_Predictions/blob/master/Saved%20Images/Midwest%20census%20region.png)
 
