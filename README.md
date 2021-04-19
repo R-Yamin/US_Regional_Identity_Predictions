@@ -72,7 +72,7 @@ We can see that almost all of the "A lot" responses come from three regions in p
 >* There are clear results for particular states that are believed to be southern or midwestern, though how those breakdowns happen are shown to be distinct between those that identify strongly with those regions than those who do not.
 >* The census region data showed a clear breakdown of the 4 categories of regional identity, with those identifying a lot with south or midwest regions of the US falling into distinct regions.
 
-Judging from the results above, the prediction models for these datasetss would likely heavily rely on the states respondents voted for and their census region to determine how likely they are to be southern or midwestern.
+Judging from the results above, the prediction models for these datasets would likely heavily rely on the states respondents voted for and their census region to determine how likely they are to be southern or midwestern.
 
 ## 4. Cross Validation and Testing Results
 
